@@ -1,0 +1,22 @@
+{
+  "name": "jeekwerrie",
+  "version": "1.0.0",
+  "description": "Jeekwerrie training ofzo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Theo",
+    "cool",
+    "kennismaking",
+    "jeekwerrie",
+    "jQuery"
+  ],
+  "author": "Jochem de Wit",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
